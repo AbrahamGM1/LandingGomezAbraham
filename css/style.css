@@ -1,0 +1,42 @@
+body {
+    background-color: #292929;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+nav a{
+     color: aqua;
+     text-decoration-line: none;
+} 
+
+nav a:hover {
+    font-weight: bold;
+}
+
+ol {
+    font-size: larger;
+} 
+li {
+    margin-top: 6px;
+}
+
+img {
+    width: 150px;
+    height: 75px;
+    float: left
+}
+
+.git, .github {
+    width: 200px;
+    height: 200px;
+}
+
+
+footer {
+    position:absolute;
+    text-align: center;
+    font-weight: bold;
+    bottom:0;
+    width: 100%;
+    height: 40px;
+}
